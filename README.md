@@ -3,7 +3,6 @@
 
 Skills: Java / Kotlin / Dart / C# 
 
-- 🔭 I’m currently working on https://www.jeitto.com.br/ 
 - 📫 How to reach me: patricio_dutra@hotmail.com 
 
 
